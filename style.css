@@ -1,5 +1,5 @@
 body {
-  background-color: rbg(14, 14, 15);
+  background: linear-gradient(180.96deg, #0E0E0F 0.82%, #4A2800 129.1%);
   font-family: "Poppins", sans-serif;
 }
 
@@ -22,7 +22,7 @@ p {
   padding-left: 55px;
   padding-top: 37px;
   max-width: 1500px;
-  margin: 0 auto;
+  margin: 0 ;
 }
 
 .navbar-brand {
@@ -197,4 +197,14 @@ a{
   color: #fff;
   text-decoration: none;
  
+}
+
+.fonnn{
+  background-color: #000000;
+  padding-bottom: 12px;
+
+}
+hr{
+  color: #FFFFFF;
+  
 }
