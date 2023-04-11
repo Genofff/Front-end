@@ -179,7 +179,7 @@ section.hero-unit .hero-text {
 }
 
 .Fon {
-  background-image: url("../images/Fon.png");
+  background-image: url("images/Fon.png");
   background-repeat: no-repeat;
   background-position: center, center;
   background-size: cover;
